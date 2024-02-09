@@ -44,6 +44,7 @@ quarter, thrid quarter, fourth quarter, or if it is in the X axis or Y axis and 
 ## validSalary():
 
 - Created to evaluate if the salary inserted is valid or not.
+
 ### _______________________________________________________________________________________________________________________
 
 

@@ -32,6 +32,7 @@ The area of a trapezoid that has A and B as it's bases and C as it's height.
 The area of a square that has B as it's side.
 The area of a rectangle that has sides of A and B.
 
+### _______________________________________________________________________________________________________________________
 
 _Documentation will be added in the future_
 
