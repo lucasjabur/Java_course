@@ -1,27 +1,27 @@
-- fstExercise.java
+- FstExercise.java
 
 -> Class that reads two numbers (of type int) and shows the sum of them.
 
-- sndExercise.java
+- SndExercise.java
 
 -> Class that reads the radius of and circle and shows it's area.
 
-- thdExercise.java
+- ThdExercise.java
 
 -> Class that reads fours numbers (A, B, C and D, all of type int) and shows the difference of the product between
 (A and B) and (C and D).
 
-- frthExercise.java
+- FrthExercise.java
 
 -> Class that reads the number of an empolyee, the number of hours worked, the salary per hour and
 calculates the monthly salary.
 
-- fthExercise.java
+- FthExercise.java
 
 -> Class that reads the code of product 1, the number of units, the price per unit, the same thing
 for the product 2, and then calculates the final price.
 
-- sxthExercise.java
+- SxthExercise.java
 
 -> Class that reads three number (A, B and C, all of type double) and then does:
   - The area of a triangle that has A as it's base and C as it's height.

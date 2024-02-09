@@ -1,6 +1,7 @@
-- Exercise.java
+- Exercises.java
 
 -> Class that contains 8 methods, each method represents an exercise.
+
   - isNeg(): evaluates if a number is negative or positive (returns false if is negative and true if is positive).
 
   - evenOrOdd(): evaluates if a number is even or odd (returns false if is odd and true if is even).
