@@ -1,16 +1,16 @@
 public class App {
   public static void main(String[] args) {
 
-    // fstExercise test1 = new fstExercise();
-    // test1.firstExercise();
+    // FstExercise test1 = new FstExercise();
+    // test1.sumNumbers();
 
-    // sndExercise test2 = new sndExercise();
-    // test2.secondExercise();
+    // SndExercise test2 = new SndExercise();
+    // test2.circleArea();
 
-    // thdExercise test3 = new thdExercise();
-    // test3.thirdExercise();
+    // ThdExercise test3 = new ThdExercise();
+    // test3.difProducts();
 
-    // frthExercise test4 = new frthExercise();
+    // FrthExercise test4 = new FrthExercise();
     // test4.setNumber(1);
     // test4.setHours(100);
     // test4.setPerHour(5.5);

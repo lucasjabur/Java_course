@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class fstExercise {
+public class FstExercise {
 
-    public void firstExercise(){
+    public void sumNumbers(){
     int num1, num2, sum;
 
     Scanner sc = new Scanner(System.in);

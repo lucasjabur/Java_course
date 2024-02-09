@@ -1,10 +1,10 @@
-public class fthExercise {
+public class FthExercise {
 
   private int code1, code2;
   private int quantity1, quantity2;
   private double price1, price2;
 
-  public boolean setCode1(int code1){
+  public boolean setFstCode(int code1){
     if (code1 < 0)
       return false;
     else
@@ -12,11 +12,11 @@ public class fthExercise {
       return true;
   }
 
-  public int getCode1(){
+  public int getFstCode(){
     return code1;
   }
 
-  public boolean setCode2(int code2){
+  public boolean setSndCode(int code2){
     if (code2 < 0)
       return false;
     else
@@ -24,11 +24,11 @@ public class fthExercise {
       return true;
   }
 
-  public int getCode2(){
+  public int getSndCode(){
     return code2;
   }
 
-  public boolean setQnt1(int quantity1){
+  public boolean setFstQnt(int quantity1){
     if (quantity1 < 0)
       return false;
     else
@@ -36,11 +36,11 @@ public class fthExercise {
       return true;
   }
 
-  public int getQnt1(){
+  public int getFstQnt(){
     return quantity1;
   }
 
-  public boolean setQnt2(int quantity2){
+  public boolean setSndQnt(int quantity2){
     if (quantity2 < 0)
       return false;
     else
@@ -48,23 +48,23 @@ public class fthExercise {
       return true;
   }
 
-  public int getQnt2(){
+  public int getSndQnt(){
     return quantity2;
   }
 
-  public void setPrice1(int price1){
+  public void setFstPrice(int price1){
     this.price1 = price1;
   }
 
-  public double getPrice1(){
+  public double getFstPrice(){
     return price1;
   }
 
-  public void setPrice2(int price2){
+  public void setSndPrice(int price2){
     this.price2 = price2;
   }
 
-  public double getPrice2(){
+  public double getSndPrice(){
     return price2;
   }
 

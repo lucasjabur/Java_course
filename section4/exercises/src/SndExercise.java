@@ -1,17 +1,17 @@
 import java.util.Scanner;
 
-public class sndExercise {
+public class SndExercise {
 
-    public void secondExercise(){
+    public void circleArea(){
 
     Scanner sc = new Scanner(System.in);
 
-    double r, area;
+    double radius, area;
     double pi = 3.14159;
 
-    r = sc.nextDouble();
+    radius = sc.nextDouble();
 
-    area = Math.pow(r, 2) * pi;
+    area = Math.pow(radius, 2) * pi;
 
     System.out.printf("Area: %.4f%n",area);
 

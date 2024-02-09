@@ -1,4 +1,4 @@
-public class frthExercise {
+public class FrthExercise {
 
   private int number;
   private double hours;

@@ -1,4 +1,4 @@
-public class sxthExercise {
+public class SxthExercise {
 
   private double A,B,C;
 
