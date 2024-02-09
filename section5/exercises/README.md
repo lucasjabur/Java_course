@@ -47,8 +47,7 @@ quarter, thrid quarter, fourth quarter, or if it is in the X axis or Y axis and 
 ### _______________________________________________________________________________________________________________________
 
 
-### _Documentation will be added in the future_
-
+_Documentation will be added in the future_
 
 
 ## Links
