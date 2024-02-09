@@ -44,14 +44,16 @@ quarter, thrid quarter, fourth quarter, or if it is in the X axis or Y axis and 
 ## validSalary():
 
 - Created to evaluate if the salary inserted is valid or not.
-### ___________________________________________________________________________________________________________________________________________________________________________
+### _______________________________________________________________________________________________________________________
+
 
 ### _Documentation will be added in the future_
 
 
-Please, send me an e-mail and follow me on LinkedIn so you can help me improve!
 
 ## Links
+
+**Please, send me an e-mail and follow me on LinkedIn so you can help me improve!**
 
 <div>
 <a href="https://www.linkedin.com/in/lucas-cardoso-jabur" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
