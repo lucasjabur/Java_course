@@ -25,5 +25,7 @@ public class ThdExc {
         System.out.println("Álcool: "+alcool);
         System.out.println("Gasolina: "+gasolina);
         System.out.println("Diesel: "+diesel);
+        
+        sc.close();
     }
 }

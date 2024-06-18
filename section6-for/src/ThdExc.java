@@ -18,5 +18,7 @@ public class ThdExc {
 
             System.out.printf("Media: %.1f%n",media);
         }
+        
+        sc.close();
     }
 }

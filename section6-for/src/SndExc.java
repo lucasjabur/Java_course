@@ -19,5 +19,6 @@ public class SndExc {
             }
         }
 
+        sc.close();
     }
 }

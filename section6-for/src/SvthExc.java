@@ -12,6 +12,7 @@ public class SvthExc {
             double cubo = Math.pow(i, 3);
             System.out.printf("%d %.0f %.0f%n",i, quad, cubo);
         }
-
+        
+        sc.close();
     }
 }

@@ -18,5 +18,7 @@ public class FrthExc {
 
         System.out.println("Número: " + num);
         System.out.println("Salário: U$ " + salario);
+
+        sc.close();
     }
 }

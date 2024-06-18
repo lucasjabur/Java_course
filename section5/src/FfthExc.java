@@ -42,7 +42,10 @@ public class FfthExc {
                 break;
             default:
                 throw new AssertionError();
+    
         }
+
+        sc.close();
 
     }
 }

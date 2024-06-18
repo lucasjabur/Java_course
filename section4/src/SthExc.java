@@ -32,5 +32,7 @@ public class SthExc {
         System.out.println("Trapézio: " + areaTrap);
         System.out.println("Quadrado: " + areaQuad);
         System.out.println("Retângulo: " + areaRet);
+
+        sc.close();
     }
 }

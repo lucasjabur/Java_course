@@ -19,5 +19,7 @@ public class FfthExc {
         valorTotal = numPcs1*valPcs1 + numPcs2*valPcs2;
 
         System.out.println("Valor: " + valorTotal);
+
+        sc.close();
     }
 }

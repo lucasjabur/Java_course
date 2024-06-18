@@ -27,5 +27,7 @@ public class FrthExc {
             int duracao = 24 - horaInicial + horaFinal;
             System.out.printf("O jogo durou %d horas.%n", duracao);
         }
+
+        sc.close();
     }
 }

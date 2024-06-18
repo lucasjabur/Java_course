@@ -14,6 +14,7 @@ public class FstExc {
         else {
             System.out.println("NAO NEGATIVO");
         }
-    
+
+        sc.close();
     }
 }

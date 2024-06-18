@@ -18,5 +18,6 @@ public class SthExc {
             }
         }
 
+        sc.close();
     }
 }

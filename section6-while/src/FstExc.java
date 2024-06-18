@@ -14,5 +14,6 @@ public class FstExc {
 
         System.out.println("Acesso permitido!");
 
+        sc.close();
     }
 }

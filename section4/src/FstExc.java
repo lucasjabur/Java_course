@@ -15,5 +15,6 @@ public class FstExc {
 
         System.out.println("Soma: " + soma);
 
+        sc.close();
     }
 }

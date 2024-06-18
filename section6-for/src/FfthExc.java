@@ -16,5 +16,6 @@ public class FfthExc {
 
         System.out.printf("Fatorial de %d: %d%n",valorN, fatorial);
 
+        sc.close();
     }
 }

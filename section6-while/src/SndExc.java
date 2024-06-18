@@ -29,5 +29,7 @@ public class SndExc {
         }
 
         System.out.println("");
+
+        sc.close();
     }
 }

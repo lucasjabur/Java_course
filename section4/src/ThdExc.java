@@ -20,5 +20,6 @@ public class ThdExc {
 
         System.out.println("Diferença: " + dif);
 
+        sc.close();
     }
 }

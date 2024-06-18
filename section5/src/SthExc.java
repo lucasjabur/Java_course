@@ -30,5 +30,7 @@ public class SthExc {
         else {
             System.out.println("Fora de intervalo!");
         }
+
+        sc.close();
     }
 }

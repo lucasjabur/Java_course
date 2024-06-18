@@ -68,7 +68,10 @@ public class EgthExc {
             double imposto = ((salario - 2500) - ((salario - 2500) - ((salario - 2500)*0.28))) + 80 + 270;
             
             System.out.printf("Imposto: %.2f%n",imposto);
+            
         }
+
+        sc.close();
 
     }
 }

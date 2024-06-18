@@ -40,5 +40,7 @@ public class SvthExc {
         else if(num1 > 0 && num2 < 0) {
             System.out.println("Q4");
         }
+
+        sc.close();
     }
 }

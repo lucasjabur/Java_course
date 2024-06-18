@@ -12,5 +12,7 @@ public class FstExc {
                 System.out.println(i);
             }
         }
+        
+        sc.close();
     }
 }

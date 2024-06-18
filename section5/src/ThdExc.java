@@ -20,7 +20,7 @@ public class ThdExc {
             System.out.println("Não são múltiplos!");
         }
 
-        // para serem múltiplos o resto da divisão entre eles deve ser 0
+        sc.close();
 
     }
 }

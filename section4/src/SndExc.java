@@ -13,5 +13,6 @@ public class SndExc {
 
         System.out.printf("Área: %.4f%n", area);
 
+        sc.close();
     }
 }

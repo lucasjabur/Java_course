@@ -14,5 +14,7 @@ public class SndExc {
         else {
             System.out.println("IMPAR");
         }
+        
+        sc.close();
     }
 }
